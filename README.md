@@ -1,2 +1,2 @@
-# Three_Colored_Markers_CSS_HTML
-Three Colored Markers in CSS and HTML. My educational project from freecodecamp.org
+# Three_Colored_Markers_HTML5_CSS3
+Three Colored Markers in HTML5 and CSS3. My educational project from freecodecamp.org
